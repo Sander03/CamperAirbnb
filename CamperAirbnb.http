@@ -1,0 +1,6 @@
+@CamperAirbnb_HostAddress = http://localhost:5212
+
+GET {{CamperAirbnb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
